@@ -85,3 +85,4 @@ class FizzBuzzTest {
         helperRun10to15(fb);
     }
 }
+

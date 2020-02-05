@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/activity_01_BSheep/activity_01_BSheep.iml" filepath="$PROJECT_DIR$/activity_01_BSheep/activity_01_BSheep.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activity_02_Account/activity_02_Account.iml" filepath="$PROJECT_DIR$/activity_02_Account/activity_02_Account.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activity_02_Dice/activity_02_Dice.iml" filepath="$PROJECT_DIR$/activity_02_Dice/activity_02_Dice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activity_03_Bee/activity_03_Bee.iml" filepath="$PROJECT_DIR$/activity_03_Bee/activity_03_Bee.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activity_04_ATM/activity_04_ATM.iml" filepath="$PROJECT_DIR$/activity_04_ATM/activity_04_ATM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activity_05_Fraction/activity_05_Fraction.iml" filepath="$PROJECT_DIR$/activity_05_Fraction/activity_05_Fraction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/homework_03_FizzBuzz/homework_03_FizzBuzz.iml" filepath="$PROJECT_DIR$/homework_03_FizzBuzz/homework_03_FizzBuzz.iml" />
+    </modules>
+  </component>
+</project>
